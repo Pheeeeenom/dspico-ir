@@ -1,6 +1,9 @@
 # DSpico IR Project Index
 This repository serves as an index for the DSpico IR project. See the repositories of the individual components for more information.
 
+## .ndz format
+See [NDZ-SPEC.md](NDZ-SPEC.md) for the format of the compressed roms and delta rom hacks the DSpico IR reads.
+
 ## Components
 - DSpico IR Hardware - The hardware of the DSpico IR.
 - DSpico IR Firmware - The RP2350 firmware for the DSpico IR.
