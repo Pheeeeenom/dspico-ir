@@ -9,6 +9,6 @@ See [NDZ-SPEC.md](NDZ-SPEC.md) for the format of the compressed roms and delta r
 - DSpico IR Firmware - The RP2350 firmware for the DSpico IR.
 - DSpico IR Bootloader - Bootloader for the DSpico IR.
 - [DSpico IR DLDI](https://github.com/Pheeeeenom/dspico-2350-dldi-develop) - The DLDI for the DSpico IR.
-- DSpico IR Utility - DS-side utility for cart information, diagnostics and firmware updates.
+- [DSpico IR Utility](https://github.com/Pheeeeenom/dspico-ir-utility) - DS-side utility for cart information, diagnostics and firmware updates.
 - [Pico Launcher](https://github.com/Pheeeeenom/dspico-2350-launcher) - Front-end for Pico Loader.
 - Pico Loader - DS(i) rom loader. Supports various flashcards, including the DSpico IR.
